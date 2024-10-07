@@ -11,4 +11,4 @@ Hello! I am a second year Master in Economics at Duke University. In my spare ti
 
 [Linear Regressions](https:\\BillRZhao.github.io/notes/Linear%20Regressions.pdf)
 
-[Basic Causal Inference]()
+[Basic Causal Inference](https:\\BillRZhao.github.io/notes/Basic%20Causal%20Inference.pdf)
