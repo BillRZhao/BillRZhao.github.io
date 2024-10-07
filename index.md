@@ -5,4 +5,4 @@ Hello! I am a second year Master in Economics at Duke University. In my spare ti
 
 [Basic Probability](https:\\BillRZhao.github.io/notes/MATH740.pdf)
 
-[Estimators and Panel Data Model](https:\\BillRZhao.github.io/notes/Estimators%20an%20Pane%20Data%20Model.pdf)
+[Estimators and Panel Data Model](https:\\BillRZhao.github.io/notes/Estimators%20and%20Panel%20Data%20Model.pdf)
