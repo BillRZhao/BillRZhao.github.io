@@ -8,3 +8,5 @@ Hello! I am a second year Master in Economics at Duke University. In my spare ti
 [Estimators and Panel Data Model](https:\\BillRZhao.github.io/notes/Estimators%20and%20Panel%20Data%20Model.pdf)
 
 [Times Series Analysis](https:\\BillRZhao.github.io/notes/Time%20Series%20Analysis.pdf)
+
+[Linear Regressions]()
