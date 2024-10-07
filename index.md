@@ -2,3 +2,4 @@ Hello! I am a second year Master in Economics at Duke University. In my spare ti
 
 ## Notes
 [Measure and Integration](https:\\BillRZhao.github.io/notes/MATH631.pdf)
+[Microeconomics](https:\\BillRZhao.github.io/notes/MATH631.pdf)
