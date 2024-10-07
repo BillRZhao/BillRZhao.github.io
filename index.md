@@ -9,4 +9,4 @@ Hello! I am a second year Master in Economics at Duke University. In my spare ti
 
 [Times Series Analysis](https:\\BillRZhao.github.io/notes/Time%20Series%20Analysis.pdf)
 
-[Linear Regressions]()
+[Linear Regressions](https:\\BillRZhao.github.io/notes/Linear%20Regressions.pdf)
