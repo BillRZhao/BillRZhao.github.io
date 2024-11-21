@@ -3,9 +3,9 @@ Hello! I am a second year Master in Economics at Duke University. In my spare ti
 My interest lies in Econometrics and Microeconomics Theory.
 
 ## Research Papers
-[Human Capical and Innovation: The Effect of Talent Introduction Policy](https:\\BillRZhao.github.io/papers/graduation_thesis.pdf) 
-
 [Immigration, Wages and Employment Some Evidence From the US Service Sector](https:\\BillRZhao.github.io/papers/writing-sample-thesis.pdf) 
+
+[Human Capical and Innovation: The Effect of Talent Introduction Policy](https:\\BillRZhao.github.io/papers/graduation_thesis.pdf) 
 
 
 ## Notes
