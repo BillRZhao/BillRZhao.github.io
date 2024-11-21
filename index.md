@@ -5,6 +5,8 @@ My interest lies in Econometrics and Microeconomics Theory.
 ## Research Papers
 [Human Capical and Innovation: The Effect of Talent Introduction Policy](https:\\BillRZhao.github.io/papers/graduation_thesis.pdf) 
 
+[Immigration, Wages and Employment Some Evidence From the US Service Sector](https:\\BillRZhao.github.io/papers/writing-sample-thesis.pdf) 
+
 
 ## Notes
 [Measure and Integration](https:\\BillRZhao.github.io/notes/MATH631.pdf) 
