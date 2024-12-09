@@ -1,4 +1,4 @@
-<img src="image/picture.png" alt="Description" class="img-fluid" style="max-width:10px;">
+<img src="image/picture.jpg" alt="Description" class="img-fluid" style="max-width:10px;">
 
 
 Hello! I am a second year Master's student in Economics at Duke University. In my spare time, I like to play the piano, go hiking, and read interesting books. I am also actively improving my math knowledge to be better prepared for my future research.
