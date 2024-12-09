@@ -10,6 +10,8 @@ My current interest lies in Econometrics and Microeconomics Theory. I draw inspi
 
 I believe in the value of sharing, thus I make all of my notes public, with appropriate citations of the lectures of my professors.
 
+You can find my [CV] here.
+
 
 ## Research Papers
 [Immigration, Wages and Employment Some Evidence From the US Service Sector](https:\\BillRZhao.github.io/papers/writing-sample-thesis.pdf) 
