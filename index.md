@@ -1,5 +1,3 @@
-<img src="image/picture.jpg" alt="Description" class="img-fluid mx-auto d-block">
-
 Hello! I am a second year Master's student in Economics at Duke University. In my spare time, I like to play the piano, go hiking, and read interesting books. I am also actively improving my math knowledge to be better prepared for my future research.
 
 My current interest lies in Econometrics and Microeconomics Theory. I draw inspiration from both the literature and the empirical projects I have done. In the following sections you can some of my past projects.
