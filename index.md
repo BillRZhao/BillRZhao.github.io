@@ -10,7 +10,7 @@ My current interest lies in Econometrics and Microeconomics Theory. I draw inspi
 
 I believe in the value of sharing, thus I make all of my notes public, with appropriate citations of the lectures of my professors.
 
-You can find my [CV] here.
+You can find my [CV](https:\\BillRZhao.github.io/notes/CV-Runzhe%Zhao.pdf) here.
 
 
 ## Research Papers
