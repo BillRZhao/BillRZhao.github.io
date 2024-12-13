@@ -20,7 +20,7 @@ You can find my [CV](https:\\BillRZhao.github.io/notes/CV-Runzhe%20Zhao.pdf) her
 
 
 ## Notes
-[Measure and Integration](https:\\BillRZhao.github.io/notes/MATH631.pdf) 
+[Measure Theory, L^p and Hilbert Space](https:\\BillRZhao.github.io/notes/MATH631.pdf) 
 
 [Basic Probability](https:\\BillRZhao.github.io/notes/MATH740.pdf)
 
