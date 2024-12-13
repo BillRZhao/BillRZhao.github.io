@@ -1,4 +1,4 @@
-<img src="image/picture.png" alt="Description" class="img-fluid" style="width:200px;">
+<img src="image/picture.png" alt="Description" class="img-fluid" style="width:300px;">
 
 
 ## Bio
