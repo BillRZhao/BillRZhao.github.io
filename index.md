@@ -20,6 +20,10 @@ You can find my [CV](https:\\BillRZhao.github.io/notes/CV-Runzhe%20Zhao.pdf) her
 
 
 ## Notes
+[Topology Part 1](https:\\BillRZhao.github.io/notes/Topology_part_1.pdf) 
+
+[Topology Part 2](https:\\BillRZhao.github.io/notes/Topology_part_2.pdf) 
+
 [Measure Theory, L^p and Hilbert Space](https:\\BillRZhao.github.io/notes/MATH631.pdf) 
 
 [Basic Probability](https:\\BillRZhao.github.io/notes/MATH740.pdf)
