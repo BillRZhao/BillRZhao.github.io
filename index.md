@@ -35,3 +35,7 @@ You can find my [CV](https:\\BillRZhao.github.io/notes/CV-Runzhe%20Zhao.pdf) her
 [Linear Regressions](https:\\BillRZhao.github.io/notes/Linear%20Regressions.pdf)
 
 [Basic Causal Inference](https:\\BillRZhao.github.io/notes/Basic%20Causal%20Inference.pdf)
+
+## Links that I find helpful in learning econometrics
+
+[Why Economists Should Learn Machine Learning -- Jérémy L'Hour and Christophe Gaillac](https://blog.oup.com/2025/07/why-economists-should-learn-machine-learning/)
