@@ -1,4 +1,4 @@
-## This is my first blog post.
+## The Reasons Why I Like Econometrics
 
 The reason why I like econometrics is that the way this subject thinks about the world highly
 aligns with my own. We view this world as a data generating process (DGP), which is usually a
